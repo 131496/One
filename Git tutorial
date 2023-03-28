@@ -19,7 +19,7 @@ Git commands?= code . = opens visual studio code.
              = git status = used to check what is going on with the added(staged) file whether it changed or unchanged.
              = git commit -m "insert a message" = used to commit the changes in the code.
              
-
+[what](https://git-scm.com/doc)
 
             
             
