@@ -1,0 +1,8 @@
+What is git?= Git is a distributed version control system which allows the programmers to work collaboratively and track the changes in the code base.
+            = Main goals are speed, distributed work, co-ordinating non-linear workflows and data integrity.
+            = Characteristics include branching, merging, comparing past versions for optimized performance.
+            = Git assigns unique ID to each and every commit for the identification by hash or SHA(secure hashing algorithm).
+
+
+            
+            
