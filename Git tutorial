@@ -7,6 +7,7 @@ What is git?= Git is a distributed version control system which allows the progr
             = Comparision between feature branch and master branch lets us know about the additions and deletions made to code base.
             = Git bash is the windows application which acts as a command line interface.
             = [untracked to staged](https://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository)
+            = Local repos reside in local system and remote repos reside in servers and is being accessable by everyone.
 
 
 Git documentation?= [Documentation](https://git-scm.com/doc)          
@@ -18,8 +19,10 @@ Git commands?= code . = opens visual studio code.
              = git add = adding the untracked file to staging area.
              = git status = used to check what is going on with the added(staged) file whether it changed or unchanged.
              = git commit -m "insert a message" = used to commit the changes in the code.
-             
-[what](https://git-scm.com/doc)
+             = git push -u origin <branch name> = push the changes to remote branch.
+             = git log = shows what and all commits we have done.
+             = clear = clears the terminal
+
 
 
 
