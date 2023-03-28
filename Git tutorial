@@ -2,6 +2,23 @@ What is git?= Git is a distributed version control system which allows the progr
             = Main goals are speed, distributed work, co-ordinating non-linear workflows and data integrity.
             = Characteristics include branching, merging, comparing past versions for optimized performance.
             = Git assigns unique ID to each and every commit for the identification by hash or SHA(secure hashing algorithm).
+            = After commiting the changes in the feature branches you can create a pull request from where other developers can acknowledge and review the changes.
+            = Pull requests can be created from two ways, 1) from feature branch 2) from forked branch.
+            = Comparision between feature branch and master branch lets us know about the additions and deletions made to code base.
+            = Git bash is the windows application which acts as a command line interface.
+            = [untracked to staged](https://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository)
+
+
+Git documentation?= [Documentation](https://git-scm.com/doc)          
+
+
+Git commands?= code . = opens visual studio code.
+             = git init = initializes the empty repository.
+             = ls lart = shows all the hidden folders.
+             = git add = adding the untracked file to staging area.
+             = git status = used to check what is going on with the added(staged) file whether it changed or unchanged.
+             = git commit -m "insert a message" = used to commit the changes in the code.
+             
 
 
             
