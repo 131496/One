@@ -22,9 +22,16 @@ Git commands?= code . = opens visual studio code.
              = git push -u origin <branch name> = push the changes to remote branch.
              = git log = shows what and all commits we have done.
              = clear = clears the terminal
-
-
-
+             = git diff
+             = git diff -- staged
+             = git checkout -f
+             = git commit -a -m
+             = git rm chached
+             = git <any command>^C
+             = git rm <file name>
+             = git log -p -1
+             = git status -s
+             = 
 
             
             
