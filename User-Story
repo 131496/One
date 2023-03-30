@@ -1,0 +1,6 @@
+Spring[1.3]----->
+
+{{ [WRI->RPS] Rename Service and related resources to Relationship Propagation Service from WRI  }}
++ Changes in the repo
+  = Renamed from wri to rps both in folders and code completely.
+  = Learnt that renaming of the folders can be made from the azure repo itself.
