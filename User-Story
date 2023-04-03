@@ -8,3 +8,5 @@ Spring[1.3]----->
     and we will be done with rps 
   = I was not able to work much on optimization perfermance story due the issue that we were facing for running the pipeline on thursday and friday, I will be able to work
     on it now
+  = In the rps changes, I made a spelling correction due to which, the whole rps is not running right now, so dont change anything while making the code changes.
+  = I have to work on avro coder, but I am not understanding it
