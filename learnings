@@ -1,0 +1,2 @@
+Clean maven was getting failed , so deleted the target file completely so the clean was successful.
+if you are not able to delete anything, then go to task manager and end all the running applications and then try delete.
