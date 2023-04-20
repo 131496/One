@@ -10,3 +10,5 @@ Spring[1.3]----->
     on it now
   = In the rps changes, I made a spelling correction due to which, the whole rps is not running right now, so dont change anything while making the code changes.
   = I have to work on avro coder, but I am not understanding it
+  = I have done a demo project for processing 5 records for serialization and deserialization yesterday, today I will be working on scaling it for 50k records and see how much 
+    time it is taking to go through process.
