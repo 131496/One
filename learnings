@@ -1,2 +1,18 @@
 Clean maven was getting failed , so deleted the target file completely so the clean was successful.
-if you are not able to delete anything, then go to task manager and end all the running applications and then try delete.
+/Target folder/ in intellij is used for keeping the compiled version on program and it built by the IDE.This will help in running and debugging the configuration to run
+           code.
+If you are not able to delete anything, then go to task manager and end all the running applications and then try delete.
+From KT:-
+/CSV files/: [common seperated files]- A comma-separated values file is a delimited text file that uses a comma to separate values. Each line of the file is a data record.
+           Each record consists of one or more fields, separated by commas. The use of the comma as a field separator is the source of the name for this file format.
+/rt. jar/ stands for runtime and contains all of the compiled class files for the core Java Runtime environment.
+/JAR/ file is a package file format typically used to aggregate many Java class files and associated metadata and resources into one file for distribution. 
+           JAR files are archive files that include a Java-specific manifest file. They are built on the ZIP format and typically have a .jar file extension.
+/PDF/ is an abbreviation that stands for Portable Document Format
+/ZIP/ is an archive file format that supports lossless data compression. A ZIP file may contain one or more files or directories that may have been compressed.
+           The ZIP file format permits a number of compression algorithms, though DEFLATE is the most common.
+/JSON/ [JavaScript Object Notation]is an open standard file format and data interchange format that uses human-readable text to store and transmit data objects consisting 
+        of attribute–value pairs and arrays. It is a common data format with diverse uses in electronic data interchange, including that of web applications with servers.
+        {https://www.w3schools.com/js/js_json_intro.asp}
+/Shapefile/ format is a geospatial vector data format for geographic information system software. It is developed and regulated by Esri as a mostly open specification
+           for data interoperability among Esri and other GIS software products.
