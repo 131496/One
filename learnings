@@ -16,3 +16,7 @@ From KT:-
         {https://www.w3schools.com/js/js_json_intro.asp}
 /Shapefile/ format is a geospatial vector data format for geographic information system software. It is developed and regulated by Esri as a mostly open specification
            for data interoperability among Esri and other GIS software products.
+/Configuration/ is what makes your systems (servers, networks, operating systems, data centers, configuration files, IT assets and all other configuration items) work.
+           Open the settings menu in any software and you are dealing with configuration management.
+/System.exit()/ function has status code, which tells about the termination, such as: exit(0) : Indicates successful termination. exit(1) or exit(-1) or
+           any non-zero value – indicates unsuccessful termination.
