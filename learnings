@@ -6,7 +6,7 @@ From KT:-
 /CSV files/: [common seperated files]- A comma-separated values file is a delimited text file that uses a comma to separate values. Each line of the file is a data record.
            Each record consists of one or more fields, separated by commas. The use of the comma as a field separator is the source of the name for this file format.
 /rt. jar/ stands for runtime and contains all of the compiled class files for the core Java Runtime environment.
-/JAR/ file is a package file format typically used to aggregate many Java class files and associated metadata and resources into one file for distribution. 
+/JAR/: [Java Archive] file is a package file format typically used to aggregate many Java class files and associated metadata and resources into one file for distribution. 
            JAR files are archive files that include a Java-specific manifest file. They are built on the ZIP format and typically have a .jar file extension.
 /PDF/ is an abbreviation that stands for Portable Document Format
 /ZIP/ is an archive file format that supports lossless data compression. A ZIP file may contain one or more files or directories that may have been compressed.
