@@ -25,5 +25,7 @@ From KT:-
  POM.xml will have parent and child files i.e, for individual folders as well as for the whole project.
  Writing test cases on your own is very necessary.junit test cases use power mockito to write test cases
  You cannot right any statement after the return statement.
+ Snapshot
+ 
  
  
