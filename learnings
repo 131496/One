@@ -20,3 +20,10 @@ From KT:-
            Open the settings menu in any software and you are dealing with configuration management.
 /System.exit()/ function has status code, which tells about the termination, such as: exit(0) : Indicates successful termination. exit(1) or exit(-1) or
            any non-zero value – indicates unsuccessful termination.
+ mvn surefire-report:report -DshowSuccess=false ----->if used to show the test cases which are not successful.
+ For importing any predefined class in the class, you have to add dependency in the pom
+ POM.xml will have parent and child files i.e, for individual folders as well as for the whole project.
+ Writing test cases on your own is very necessary.junit test cases use power mockito to write test cases
+ You cannot right any statement after the return statement.
+ 
+ 
