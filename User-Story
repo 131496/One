@@ -14,3 +14,4 @@ Spring[1.3]----->
     time it is taking to go through process.
   = Yesterday  I used 50K records for the implementation of avro coder with time constraint to it....but there is a exception caused by avro itself. I will discuss this with
     ashish today and try to complete it also try to implement connectors and connected with sachin for understanding pardos  we will continue that series today as well
+  =Sauth implementation is done, few test cases are failing , i will connect with Mahesh and complete and it. if that is done, i will work on handling 429
