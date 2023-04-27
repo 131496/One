@@ -32,6 +32,9 @@ Git commands?= code . = opens visual studio code.
              = git log -p -1
              = git status -s
              = 
+             
+             
+maven commands?= mvn -help
 
             
             
