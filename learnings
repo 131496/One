@@ -26,6 +26,10 @@ From KT:-
  Writing test cases on your own is very necessary.junit test cases use power mockito to write test cases
  You cannot right any statement after the return statement.
  Snapshot
+ Before running and building any repo, please add necessary configurations and files for running as well as building as it will be different for both running and build.
+ Make sure environmental variables are added and setting.xml is added in case of springboot application.
+ Make mistakes and learn from them. REMEMBER IT!!!!!
+ If not remebering it , document it you damn it!!
  
  
  
