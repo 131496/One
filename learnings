@@ -32,6 +32,7 @@ From KT:-
  If not remebering it , document it you damn it!!
  Local files are not meant to be committed into the repo , they are for the configuration, thats the reason they wont be in the repo and has to be taken by someone
            who has already worked on it. and how are these configuration files made?
+ Ask why what and how for everything is very very important.
  
  
  
