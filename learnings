@@ -3,45 +3,57 @@ Clean maven was getting failed , so deleted the target file completely so the cl
            code.
 If you are not able to delete anything, then go to task manager and end all the running applications and then try delete.
 From KT:-
-/CSV files/: [common seperated files]- A comma-separated values file is a delimited text file that uses a comma to separate values. Each line of the file is a data record.
+/CSV files/: [common seperated files]- A comma-separated values file is a delimited text file that uses a comma to separate values. Each line of the file is a data
+           record.
            Each record consists of one or more fields, separated by commas. The use of the comma as a field separator is the source of the name for this file format.
 /rt. jar/ stands for runtime and contains all of the compiled class files for the core Java Runtime environment.
-/JAR/: [Java Archive] file is a package file format typically used to aggregate many Java class files and associated metadata and resources into one file for distribution. 
+/JAR/: [Java Archive] file is a package file format typically used to aggregate many Java class files and associated metadata and resources into one file for 
+           distribution. 
            JAR files are archive files that include a Java-specific manifest file. They are built on the ZIP format and typically have a .jar file extension.
 /PDF/ is an abbreviation that stands for Portable Document Format
 /ZIP/ is an archive file format that supports lossless data compression. A ZIP file may contain one or more files or directories that may have been compressed.
            The ZIP file format permits a number of compression algorithms, though DEFLATE is the most common.
-/JSON/ [JavaScript Object Notation]is an open standard file format and data interchange format that uses human-readable text to store and transmit data objects consisting 
-        of attribute–value pairs and arrays. It is a common data format with diverse uses in electronic data interchange, including that of web applications with servers.
-        {https://www.w3schools.com/js/js_json_intro.asp}
+/JSON/ [JavaScript Object Notation]is an open standard file format and data interchange format that uses human-readable text to store and transmit data objects
+           consisting of attribute–value pairs and arrays. It is a common data format with diverse uses in electronic data interchange, including that of web 
+           applications with servers.{https://www.w3schools.com/js/js_json_intro.asp}
 /Shapefile/ format is a geospatial vector data format for geographic information system software. It is developed and regulated by Esri as a mostly open specification
            for data interoperability among Esri and other GIS software products.
 /Configuration/ is what makes your systems (servers, networks, operating systems, data centers, configuration files, IT assets and all other configuration items) work.
            Open the settings menu in any software and you are dealing with configuration management.
 /System.exit()/ function has status code, which tells about the termination, such as: exit(0) : Indicates successful termination. exit(1) or exit(-1) or
            any non-zero value – indicates unsuccessful termination.
- mvn surefire-report:report -DshowSuccess=false ----->if used to show the test cases which are not successful.
- For importing any predefined class in the class, you have to add dependency in the pom
- POM.xml will have parent and child files i.e, for individual folders as well as for the whole project.
- Writing test cases on your own is very necessary.junit test cases use power mockito to write test cases
- You cannot right any statement after the return statement.
- Snapshot
- Before running and building any repo, please add necessary configurations and files for running as well as building as it will be different for both running and build.
- Make sure environmental variables are added and setting.xml is added in case of springboot application.
- Make mistakes and learn from them. REMEMBER IT!!!!!
- If not remebering it , document it you damn it!!
- Local files are not meant to be committed into the repo , they are for the configuration, thats the reason they wont be in the repo and has to be taken by someone
+mvn surefire-report:report -DshowSuccess=false ----->if used to show the test cases which are not successful.
+For importing any predefined class in the class, you have to add dependency in the pom
+POM.xml will have parent and child files i.e, for individual folders as well as for the whole project.
+Writing test cases on your own is very necessary.junit test cases use power mockito to write test cases
+You cannot right any statement after the return statement.
+Snapshot
+Before running and building any repo, please add necessary configurations and files for running as well as building as it will be different for both running and build.
+Make sure environmental variables are added and setting.xml is added in case of springboot application.
+Make mistakes and learn from them. REMEMBER IT!!!!!
+If not remebering it , document it you damn it!!
+Local files are not meant to be committed into the repo , they are for the configuration, thats the reason they wont be in the repo and has to be taken by someone
            who has already worked on it. and how are these configuration files made?
- Ask why what and how for everything is very very important.
- /Base64 encoding/ [https://www.redhat.com/sysadmin/base64-encoding]
- /CI/CD/ or CICD is the combined practices of continuous integration and continuous delivery or continuous deployment. 
+Ask why what and how for everything is very very important.
+/Base64 encoding/ [https://www.redhat.com/sysadmin/base64-encoding]
+/CI/CD/ or CICD is the combined practices of continuous integration and continuous delivery or continuous deployment. 
            They are sometimes referred to collectively as continuous development or continuous software development.
            Continuous integration: Frequent merging of several small changes into a main branch.
            Continuous delivery: When teams produce software in short cycles with high speed and frequency so that reliable software can be released at any time,
            and with a simple and repeatable deployment process when deciding to deploy.
            Continuous deployment: When new software functionality is rolled out completely automatically.
- /.idea/ folders in intellij is for VCS(version control system) setting and for run and debug configurations and other module settings.
- /settings.xml/ file defines values that configure Maven execution in various ways. Most commonly, it is used to define a local repository location, 
+/.idea/ folders in intellij is for VCS(version control system) setting and for run and debug configurations and other module settings.
+/settings.xml/ file defines values that configure Maven execution in various ways. Most commonly, it is used to define a local repository location, 
            alternate remote repository servers, and authentication information for private repositories
- 
+/yaml/ [ yet another markup language ] YAML is a human-readable data serialization language that is often used for writing configuration files. Depending on 
+           whom you ask, YAML stands for yet another markup language or YAML ain't markup language (a recursive acronym), which emphasizes that 
+           YAML is for data, not documents. 
+/URI/ A Universal Resource Identifier (URI) is a member of this universal set of names in registered name spaces and addresses referring to registered 
+           protocols or name spaces.        
+/URL/ Uniform Resource Locator (URL), colloquially termed a web address,is a reference to a web resource that specifies its location on a computer network and
+           a mechanism for retrieving it. A URL is a specific type of Uniform Resource Identifier (URI), although many people use the two terms interchangeably.
+           URLs occur most commonly to reference web pages (HTTP/HTTPS) but are also used for file transfer (FTP), email (mailto), database access (JDBC),
+           and many other applications.
+/Placeholder/ attribute specifies a short hint that describes the expected value of an input field (e.g. a sample value or a short description of the expected format).
+           The short hint is displayed in the input field before the user enters a value.           
  
