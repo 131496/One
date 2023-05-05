@@ -29,6 +29,8 @@ Git commands?= code . = opens visual studio code.
              = git rm chached
              = git <any command>^C
              = git rm <file name>
+                        =git commit -m "msg"
+                        =git push
              = git log -p -1
              = git status -s
              = 
