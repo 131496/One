@@ -2,6 +2,9 @@
 Firsts are created to experiment and learn
 
 
+At the end of the day, update the earnings write down in everyday what you are going to do for next day, look and analyse if you have achieved what was assigned the previous day. If not completed do it and then only you are sleeping. Do this everyday at 10 PM exactly.
+
+
 [GIT documentation](https://git-scm.com/doc)
 
 
