@@ -57,3 +57,4 @@ Ask why what and how for everything is very very important.
 /Placeholder/ attribute specifies a short hint that describes the expected value of an input field (e.g. a sample value or a short description of the expected format).
            The short hint is displayed in the input field before the user enters a value.           
 Form the skeleton of the code while coding to get the sorted structure before writing the actual logic. You can also use the comments while structuring. 
+Understanding the given problem is crucial.
