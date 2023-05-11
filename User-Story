@@ -9,9 +9,16 @@ Spring[1.3]----->
   = I was not able to work much on optimization perfermance story due the issue that we were facing for running the pipeline on thursday and friday, I will be able to work
     on it now
   = In the rps changes, I made a spelling correction due to which, the whole rps is not running right now, so dont change anything while making the code changes.
+  
+                                conclusion: I delivered the task efficiently but deleted two services in azure without checking and understanding what devops people said.
+                                
+ Spring[1.4]----->
+ 
+ {{ [Sauth] caching and 
   = I have to work on avro coder, but I am not understanding it
   = I have done a demo project for processing 5 records for serialization and deserialization yesterday, today I will be working on scaling it for 50k records and see how much 
     time it is taking to go through process.
   = Yesterday  I used 50K records for the implementation of avro coder with time constraint to it....but there is a exception caused by avro itself. I will discuss this with
     ashish today and try to complete it also try to implement connectors and connected with sachin for understanding pardos  we will continue that series today as well
   =Sauth implementation is done, few test cases are failing , i will connect with Mahesh and complete and it. if that is done, i will work on handling 429
+ 
