@@ -37,6 +37,7 @@ Git commands?= code . = opens visual studio code.
              
              
 maven commands?= mvn -help
-
-            
+Whenever you do the changes , you are supposed to push the local branch to remote and not push into the origin (--set -upstream) (-u) is for pushing the local feature branch into remote.
+Don't delete the repo all the time in the local , if you want to get the changes from the new master , just pull the code from master and continue working. always good to keep the repo in local
+            updated.
             
