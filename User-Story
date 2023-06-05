@@ -14,11 +14,13 @@ Spring[1.3]----->
                                 
  Spring[1.4]----->
  
- {{ [Sauth] caching and 
+ {{ [Sauth] caching and regenerating token [Spike] Performance related changes using avro and other connectors }}
   = I have to work on avro coder, but I am not understanding it
   = I have done a demo project for processing 5 records for serialization and deserialization yesterday, today I will be working on scaling it for 50k records and see how much 
     time it is taking to go through process.
   = Yesterday  I used 50K records for the implementation of avro coder with time constraint to it....but there is a exception caused by avro itself. I will discuss this with
     ashish today and try to complete it also try to implement connectors and connected with sachin for understanding pardos  we will continue that series today as well
   =Sauth implementation is done, few test cases are failing , i will connect with Mahesh and complete and it. if that is done, i will work on handling 429
+  =Finally I gave up on both the user story as I did not put required efforts. Even though spike story was out of my capacity. Yet you were supposed to put your 100%, which was not the case.
+  =
  
