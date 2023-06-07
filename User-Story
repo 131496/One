@@ -28,3 +28,10 @@ Sprint[1.3]----->
      =make sure the version of the language is set properly eg: java 17/8 
      =make sure you invalidate caches and restart intellij
  
+ Sprint[2.1]----->from june 5 - june 23
+ 
+ {{ [[Fixing white source]] for all the three services [(updating the regex pattern)] for all the three services [Correctness probe] [Playbook Creation] }}
+  = What a bad start, wasted the first day also did a mistake by pushing the changes which is not mine even after knowing that will come into the PR which made me create new branch.
+    During 2nd day just redid the whole work on enrichment configuration all over again by creating new feautre branches but SUCCESSFULLY completed. What I learnt was run the application after maven 
+    clean install before pushing the code into remote branch. Also do the manual testing. THIS IS MANDATORY. Then only you can proceed with PR.
+  = 
