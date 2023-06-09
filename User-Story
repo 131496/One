@@ -38,3 +38,11 @@ Sprint[1.3]----->
     whitesource report under the task. Today I am be working on fixing wke-scheduler.
   = Yesterday I was working on fixing white source issues for wke scheduler, there is one issue  which Shantanu should mark as ignored and will run IT today, and with akshay's help we were able to run IT for
     enrichment configuration. I again did the same mistake by not marked skiptest as true before raising the PR
+  = Yesterday I was marjorly working on wke-scheduler and IT is failing for one scenario, I will discuss with Akshay today regarding that and raise the PR. also I will work on the bug regarding
+    regex update for the Kind which was not able to create match and merge rule.
+    RUNNING IT:
+    Add the testing module in the POM and project structure and clean install
+    Edit the configurations for Junit settings and add the testing evn variables. PLEASE check if the env variables are added correctly.
+    Add the token in the util file. and check for scenarios in runner file under feature.
+    then run it.
+    
