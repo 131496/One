@@ -47,4 +47,8 @@ Sprint[1.3]----->
     then run it.
   = On friday , I was trying into merge the PR for whitesource fix for wke-scheduler but pipeline was getting failed after ashish changes. also I was working on the bug for regex pattern and today
     continue with the same.
+  = Yesterday, I was working on bug and merged the PR for enrichment configuration and wke-scheduler. Today I will make the change for merge azure and raise the PR. White source fix for RPS is on hold
+    as I dont have the access to schlumberger directory in azure portal due to which I am not able to start the application in local but I have made the changes, after getting the access I will run the IT
+    and raise the PR.
+  = 
     
