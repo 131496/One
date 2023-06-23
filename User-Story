@@ -54,5 +54,6 @@ Sprint[1.3]----->
     whitesource stage , but when I checked the report there are no voilations. I will look into this today and pick playbook creation once this is cleared.
   = I was working on the regex update, The regex which we are using is not actually working for any kinds and I did the manual testing where wks is getting created but it is not picked up by scheduler 
     and wke pipeline,I have found a little modified one which is working for all sorts of kinds, but it is not matching with google regex pattern policies. I will discuss about this with Radhika today. 
+  = I was looking into blockers identified on sonar and I will continue with the other issues today.
    
     
