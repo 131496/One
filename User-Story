@@ -61,4 +61,13 @@ Sprint[1.3]----->
   = I had fixed the white source issue for two services which are wke scheduler and enrichment-configuration.
   = Go through the boards for further more details.
   = NO SKILL LEARNT.
+  = RPS work was put on hold due to some other additional requirement.
+
     
+Sprint[2.2]----->from june 26 - july 14
+
+{{ [enrichment config notEquals bug] [enrichment config schema related 500 issue] [fixing sonar for wke pipeline] [springboot 3 upgrade for wke-scheduler]}}
+ = I had given a SET presentation which was one good thing but in this distraction I was not able to work on the tasks that have been assigned to me.
+ = I also fucked up in the SET meeting as well by stating stop quitting instead of stop smoking.
+ = I have been learning to deal with poeple, be calm and try to interact with people. Have clarity on thoughts that will help you speak clearly.
+ = I have to debug the bugs on my own without anybodys help.
