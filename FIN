@@ -38,22 +38,25 @@ Books: One up on wall street
 
 Profit and Loss: Start date (4/may/2023) [DELIVERY]
        +600, +60, _, _, _, _,,,    =660
-       _, _, _, _, +2110           =
+       _, _, _, _, +2100 ,,, +1200         =3300
        
         
 
 Profit and Loss: Start date (4/may/2023) [INTRADAY]
+       _, _, _,,,
        _, _, _,,,
        
 
 
 Profit and Loss: Start date (4/may/2023) [F/O]
        _, _, _, _, _, _, _, _, +500, +50, _,,,   =550
-       
+       _, _, _,,,                                =0
        
        
 Profit and Loss: Start date (4/may/2023) [CRYPTO]
        _, _, +7, _,,,       =7
+       _, _, _,,, +340      =340
+
        
 
 
