@@ -71,3 +71,11 @@ Sprint[2.2]----->from june 26 - july 14
  = I also fucked up in the SET meeting as well by stating stop quitting instead of stop smoking.
  = I have been learning to deal with poeple, be calm and try to interact with people. Have clarity on thoughts that will help you speak clearly.
  = I have to debug the bugs on my own without anybodys help.
+ [enrichment config notEquals bug]
+ I have to remove the notEquals in MatchCondition.java to resolve the bug. API testing, integration testing, dev testing.
+
+ [WhiteSource fixing through snyk]:
+ Even after upgrading to springboot 3.0 we will face issue regarding white source as the vulnerabilities keep on getting identified and dependencies will be upgraded regularly.
+ with MEND we can not integrate it io IDE and can only identify the vulnerabilities at the stage of dev testing. but we can integrate snyk into IDE and resolve the issues in the local itself so that we will be
+ saved from these kind of issues and snyk is more efficient in identifying the vulns.
+ more efficient in finding the vulnerabilities .
