@@ -80,5 +80,7 @@ Sprint[2.2]----->from june 26 - july 14
  saved from these kind of issues and snyk is more efficient in identifying the vulns.
  more efficient in finding the vulnerabilities .
  Radhika gave me the curl and I imported through http option and changed the environment address.
-after you write a test case, debug the UT by putting the debug point the place where your functionality code lies to check whether we are getting what we want. understand the code gagna , you are doing things 
-blindly.
+ after you write a test case, debug the UT by putting the debug point the place where your functionality code lies to check whether we are getting what we want. understand the code gagna , you are doing things 
+ blindly.
+
+ = I have merged the changes for both bugs and it is available till QA for testing. Also I have fixed the the whitesource issues and removed the redundant dependencies.
